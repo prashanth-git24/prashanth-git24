@@ -144,8 +144,8 @@ I'm a B.E. graduate in Electronics and Communication Engineering from **R.V. Col
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=prashanth-git24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="180"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prashanth-git24&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="180"/>
+<img src="https://github-readme-stats.shion.dev/api?username=prashanth-git24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prashanth-git24&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
 
 </div>
 
